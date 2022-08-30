@@ -1,7 +1,10 @@
-n = int(input())
+import sys
+read = sys.stdin.readline
+
+n = int(read())
 meeting = []
 for i in range(n):
-    meeting.append(list(map(int, input().split())))
+    meeting.append(list(map(int, read().split())))
 meeting.sort(key=lambda x: (x[1], x[0]))
 cnt = 1
 f = meeting[0][1]
