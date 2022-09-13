@@ -1,5 +1,5 @@
-// Top-Down DP Solution.
-// Uses Recursion Function so takes a lot of time.
+// Top-Down Dynamic Programming Solution.
+// Uses Recursive Function so takes a lot of time.
 // Bottom-Up Solution is faster than below.
 
 #include <iostream>
