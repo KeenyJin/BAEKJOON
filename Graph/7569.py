@@ -1,3 +1,6 @@
+# 
+# https://velog.io/@hysong/%EB%B0%B1%EC%A4%80-7576-%ED%86%A0%EB%A7%88%ED%86%A0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-python
+
 import sys
 import collections
 
